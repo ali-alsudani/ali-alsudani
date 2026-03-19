@@ -2,7 +2,7 @@
 
 # Ali Alsudani
 
-**Neuroscience MSc | Data Science | Computational Biology**
+**Neuroscience MSc | Data Science | Computational Biomedical**
 
 Building tools at the intersection of neuroscience and machine learning. Currently completing a Data Science bootcamp at SPICED Academy Berlin.
 
